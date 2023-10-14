@@ -1,0 +1,22 @@
+url: oscaromeu.github.io/cookbook/
+edit:
+  repo: github.com/oscaromeu/cookbook/edit
+  base: /src
+  label: "Edit on GitHub"
+favicon: static/favicon.png
+input: ./src
+output: ./docs
+branding:
+  title: Cookbook
+meta:
+  title: " | Recipes"
+links:
+  - text: Contributors
+    link: ./categories
+    icon: people
+  - text: Tags
+    link: ./tags
+    icon: tag
+  - text: Suggest a recipe
+    link: https://github.com/oscaromeu/cookbook/issues/new?assignees=&labels=recipe&template=recipe-request.md&title=%5BRECIPE%5D
+    icon: git-pull-request
