@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://oscaromeu.github.io/cookbook/sitemap.xml.gz
