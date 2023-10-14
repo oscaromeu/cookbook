@@ -3,8 +3,8 @@ label: Paella Marisc
 tags: []
 categories: [paella, arros, peix]
 authors:
-  - name: Oscar Romeu
-    link: /categories/oscar-romeu
+  - name: Mireria Carbo
+    link: /categories/mireia-carbo
 ---
 
 # Paella de peix i marisc

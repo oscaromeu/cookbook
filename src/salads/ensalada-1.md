@@ -1,14 +1,14 @@
 ---
 label: Ensalada de pasta de lentejas
-tags: [thanksgiving]
-categories: [Emilie Huffman]
+tags: [ensalada]
+categories: [The Happy Advocado]
 authors:
-  - name: Emilie Huffman
-    link: /categories/emilie-huffman
+  - name: The Happy Advocado
+    link: /categories/the-happy-advocado
 ---
 
 # Ensalada de pasta de lentejas con tomates cherries, pepino, pimiento verde, queso fresco y pollo a dados
-![Decadent but healthy; you'll be left wanting more.](/static/banners/kale-salad.jpg)
+![Decadent but healthy; you'll be left wanting more.](/static/banners/ensalada_pasta_lentejas.jpg)
 
 ## Ingredientes (1 persona)
 
@@ -23,5 +23,5 @@ authors:
 
 
 ## Resources
-[!ref target="blank" text="Recipe"](https://cookieandkate.com/debs-kale-salad-with-apple-cranberries-and-pecans/)
-[!ref target="blank" text="Archive"](https://archive.is/KXklW)
+[!ref target="blank" text="Recipe"](https://www.instagram.com/p/CxleoOWIEzC/?img_index=1)
+
