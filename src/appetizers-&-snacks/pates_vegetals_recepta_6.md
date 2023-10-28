@@ -1,15 +1,11 @@
 ---
 label: Paté pastanaga
-tags: [vegetal]
-categories: [Oscar Romeu]
-authors:
-  - name: Oscar Romeu
-    link: /categories/oscar-romeu
-route: /appetizers-snacks/pate-pastanaga
+tags: ["paté vegetal"]
+categories: [Mireia Carbo]
+
 ---
 
 # Paté de Pastanaga
-![pate pastanaga ](/static/banners/7-layer-dip.jpeg)
 
 ## Ingredients
 - 250g de pastanagues
@@ -22,7 +18,7 @@ route: /appetizers-snacks/pate-pastanaga
 - Sal al gust
 
 ## Instructions
-1. Coeu ñes pastanagues pelades al vapor o al microones fins que estiguin tendres. Refredar.
+1. Coeu les pastanagues pelades al vapor o al microones fins que estiguin tendres. Refredar.
 2. Dins un robot de cuina triturar les pastanagues amb la resta d'ingredients fins a aconseguir una textura de paté. 
 3. Si ha quedat molt dens afegir una mica d'aigua
 4. Deixar refredar a la nevera.

@@ -1,14 +1,10 @@
 ---
 label: Paella Marisc
-tags: []
-categories: [paella, arros, peix]
-authors:
-  - name: Mireria Carbo
-    link: /categories/mireia-carbo
+tags: [paella, arros, peix]
+categories: [Mireia Carbo]
 ---
 
 # Paella de peix i marisc
-![Paella clàssica.](/static/banners/paellamarisc.jpg)
 
 ## Ingredients
 - `1` ceba
@@ -44,8 +40,3 @@ authors:
 4. Quan el sofregit estigui ben al punt de confitat, afegirem l'arròs i el sofregirem amb el sofregit durant uns minuts i ja podrem incorporar el fumet de peix bullint.
 
 5. Quan torni a arrencar el bull, ho rectificarem de sal i acabarem la paella al forn a 220 ºC durant uns 15 minuts. Haurem afegit just abans el marisc, els musclos i les cloïses o bé quan faltin pocs minuts per acabar la cocció.
-
-## Recursos
-==- Recipe
-![](/static/recipes/paellamarisc.jpg)
-===

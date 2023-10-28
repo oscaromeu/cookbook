@@ -1,6 +1,6 @@
 ---
 label: Arròs Caldos de Gambes
-tags: []
+tags: [paella, arros, peix]
 categories: [paella, arros, peix]
 ---
 

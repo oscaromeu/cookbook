@@ -1,14 +1,10 @@
 ---
 label: Muhammara
-tags: [aperitiu, cuina àrab]
-categories: [Oscar Romeu]
-authors:
-  - name: Oscar Romeu
-    link: /categories/oscar-romeu
+tags: ["paté vegetal",aperitiu, cuina àrab]
+categories: [Mireia Carbo]
 ---
 
 # Muhammara
-![A classic Thanksgiving dish.](/static/banners/sweet-potato-casserole.jpg)
 
 ## Ingredients
 - 200g de pebrots vermells rostits
