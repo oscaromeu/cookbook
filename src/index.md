@@ -3,14 +3,17 @@
 Welcome to the repository of my recipes!
 
 !!! info
-If you're looking for something in particular, use the search box at the top right. And if you can't find it, [!badge size="s" corners="pill"
-variant="light" iconAlign="right" icon="paper-airplane" text="suggest it"](https://github.com/oscaromeu/cookbook/issues/new?assignees=&labels=recipe&template=recipe-request.md&title=%5BRECIPE%5D)!
+Just wanted to share my very own corner on the web where I've compiled all my go-to recipes. This site is my personal repository, made public for my convenience. For the curious minds, the source code is completely accessible. Cheers to homemade delights! [!badge size="s" corners="pill"
+variant="light" iconAlign="right" icon="paper-airplane" text="suggest it"](https://github.com/oscaromeu/cookbook)!
 !!!
 
 !!! success
-If you're looking for inspiration on what to make, check out [!badge
-corners="pill" size="s" variant="light" text="Tags"](./tags).
+If you're looking for inspiration on what to make, check out the original sources:
++ [@thehappyavocadooo](https://www.instagram.com/thehappyavocadooo)
++ [Escola de Cuina Mireia Carbó](https://www.mireiacarbo.com/)
++ [NY Times Cooking](https://cooking.nytimes.com/)
 !!!
+
 
 
 <!---
