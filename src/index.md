@@ -4,7 +4,7 @@ Welcome to the repository of my recipes!
 
 !!! info
 Just wanted to share my very own corner on the web where I've compiled all my go-to recipes. This site is my personal repository, made public for my convenience. For the curious minds, the source code is completely accessible. Cheers to homemade delights!  [!badge size="s" corners="pill"
-variant="light" iconAlign="right" icon="paper-airplane" text="source code"](https://github.com/oscaromeu/cookbook)!
+variant="light" iconAlign="right" icon="paper-airplane" text="source code"](https://github.com/oscaromeu/cookbook)
 !!!
 
 !!! success
