@@ -8,12 +8,15 @@ input: ./src
 output: ./docs
 branding:
   title: Cookbook
+
+# https://retype.com/configuration/project/#cname
+#cname: cookbook.oscaromeu.io
 meta:
   title: " | Recipes"
 links:
-  - text: Contributors
+  - text: Source
     link: ./categories
-    icon: people
+    icon: beaker
   - text: Tags
     link: ./tags
     icon: tag

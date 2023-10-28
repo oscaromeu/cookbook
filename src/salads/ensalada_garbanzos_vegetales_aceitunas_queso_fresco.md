@@ -8,7 +8,7 @@ authors:
 ---
 
 # Ensalada de pasta de lentejas con tomates cherries, pepino, pimiento verde, queso fresco y pollo a dados
-![Decadent but healthy; you'll be left wanting more.](/static/banners/ensalada_pasta_lentejas.jpg)
+![Ensalada para la semana.](/static/banners/ensalada_pasta_lentejas.jpg)
 
 ## Ingredientes (1 persona)
 
