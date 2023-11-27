@@ -9,7 +9,7 @@ tags: [rice, spicy]
 Serves 4
 !!!
 
-## Ingredientes
+## Ingredients
 - Olive oil
 - 1 red onion, peeled and sliced
 - 1 red pepper, deseeded and chopped
